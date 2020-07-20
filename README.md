@@ -6,6 +6,6 @@ my sample react project - 1
 **web site is under construction** 
 *this is in italic font*
 
-*Lists
-  *list1
-  *list2
+* Lists
+  * list1
+  * list2
